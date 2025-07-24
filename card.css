@@ -1,0 +1,41 @@
+body{
+    background-color: orange;
+    
+}
+*{
+    margin: auto;
+
+}
+
+.mother{
+    background-color: blueviolet;
+    height: 300px;
+    width: 200px;
+    padding: 50px;
+    
+
+}
+
+.logo{
+    padding-right: 75px;
+    
+    
+}
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: white 10px dotted;
+    box-shadow: 2px 3px peru;
+}
+#slogan{
+    padding-bottom: 5px;
+}
+.company{
+    color: brown;
+    font-size: 50px;
+    font-family: monospace;
+}
+div{
+    border: 1px solid red;
+}

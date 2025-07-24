@@ -1,0 +1,40 @@
+h1{
+    color: yellowgreen;
+    font-size: larger;
+    font-style: normal;
+
+}
+    h2{
+        color: brown;
+        font-size: large;
+        font-style: normal;
+        border-style: groove;
+        font-size: large;
+        background-color: aqua;
+    }
+
+    h3{
+        font-size: large;
+    }
+    
+
+.main-heading {
+    background-color: purple;
+    border-style: dotted;
+    border-color: blue;
+
+}
+p{
+    font-style: normal;
+    border-width: 2px;
+    line-height: 30px;
+    padding: 0 20px;
+    color: black
+}
+body{
+    background-color: aqua;
+    font-size: larger;
+    margin-right: 40px;
+    margin-left: 40px;
+    border-style: double;
+}
