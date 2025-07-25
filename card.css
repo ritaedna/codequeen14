@@ -1,5 +1,6 @@
 body{
     background-color: orange;
+    background-image:url(www.pexels.com.url) ;
     
 }
 *{
@@ -8,7 +9,7 @@ body{
 }
 
 .mother{
-    background-color: blueviolet;
+    background-color: burlywood;
     height: 300px;
     width: 200px;
     padding: 50px;

@@ -1,20 +1,15 @@
-h1{
-    color: yellowgreen;
-    font-size: larger;
-    font-style: normal;
-
-}
-    h2{
-        color: brown;
-        font-size: large;
-        font-style: normal;
-        border-style: groove;
-        font-size: large;
-        background-color: aqua;
+h2{
+    background-color: bisque;
     }
 
     h3{
         font-size: large;
+        background-color: aqua;
+    }
+    br{
+        font-size: large;
+        font-family: 'Courier New', Courier, monospace;
+        b
     }
     
 
@@ -32,13 +27,11 @@ p{
     color: black
 }
 body{
-    background-color: aqua;
+    background-color: darkgray;
     font-size: larger;
-    margin-right: 40px;
-    margin-left: 40px;
+    margin-right: 400px;
+    margin-left: 400px;
     border-style: double;
-    opacity: 0.3;
-    background-image:url(download.jpg) ;
     
 }
 p {
